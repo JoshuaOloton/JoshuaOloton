@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Joshua👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=200 />
