@@ -1,11 +1,29 @@
-## Hi there, I'm Joshua👋
 
-#### ```Full Stack Developer | Open Source Enthusiast | Tech Blogger```
+# Hi there, I'm Joshua 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=200 />
+<div align="center">
+  <!-- <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" /> -->
+
+  <!-- Coding/Developer themed GIFs -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+
+  <!-- Developer workspace -->
+  <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" /> -->
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Mobile+Developer;Building+Amazing+Web+Experiences;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
+---
+
+<div align="center">
+  
+  **💻 Crafting Code | 🚀 Building Dreams | 📝 Sharing Knowledge**
+
+  
+  
+</div>
+
+<br />
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Web Development Projects**
@@ -54,8 +72,6 @@
 <!-- Most used languages -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaOloton&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoshuaOloton)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JoshuaOloton/JoshuaOloton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
