@@ -18,16 +18,13 @@
 <div align="center">
   
   **💻 Crafting Code | 🚀 Building Dreams | 📝 Sharing Knowledge**
-
-  
-  
 </div>
 
 <br />
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **React, FastAPI, and Dotnet**
+- 🌱 I’m currently learning **React, FastAPI, and System Design**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development and Programming**
 - 📫 How to reach me: **
@@ -66,12 +63,14 @@
 </div>
 
 ## 📊 GitHub Stats
-[![Joshua Oloton's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaOloton&hide=stars&show=reviews,prs_merged&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Joshua Oloton's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaOloton&hide=stars&show=reviews,prs_merged&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Most used languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaOloton&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaOloton&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+### *"Every line of code is a step towards building something amazing."*
 
 <!--
 **JoshuaOloton/JoshuaOloton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
