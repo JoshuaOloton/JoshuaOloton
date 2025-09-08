@@ -63,12 +63,12 @@
 </div>
 
 ## 📊 GitHub Stats
-[![Joshua Oloton's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaOloton&hide=stars&show=reviews,prs_merged&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Joshua Oloton's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaOloton&hide=stars&show=reviews,prs_merged&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Most used languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaOloton&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaOloton&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### *"Every line of code is a step towards building something amazing."*
 
